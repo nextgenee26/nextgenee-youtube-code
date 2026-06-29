@@ -1,0 +1,19 @@
+Stage Rankings
+Group Stage = 0
+Round of 32 = 1
+Round of 16 = 2
+Quarter Finals = 3
+Fourth Place = 4
+Third Place = 5
+Second Place = 6
+First Place = 7
+
+Negative Factors
+
+Popularity = (0.6 * WCWins / 5 + 0.1 * Caps / 23 + 0.3 * Highest Stage / 7)
+Pressure = 0.7 * Popularityv2 + 0.3 * 212-rank/211
+
+Positive Factors
+
+Goals = 70% of Attack + 20% of Midfield + 10% of Defense
+Result = Strength *
